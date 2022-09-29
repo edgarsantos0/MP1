@@ -1,0 +1,2 @@
+Aluno {numero = 76574, nome = "Edgar Santos", nota1 = 10.0, nota2 = 10.0, notafinal = 10.0}
+Aluno {numero = 696969, nome = "Ilidio Bucetas", nota1 = 10.0, nota2 = 10.0, notafinal = 10.0}
